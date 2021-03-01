@@ -13,7 +13,10 @@ alias ip='ip -color=auto'
 alias yt-a="youtube-dl -x --embed-thumbnail --audio-format mp3 -o '%(title)s.%(ext)s'"
 alias yt-pa="youtube-dl -x --embed-thumbnail --audio-format mp3 -o '%(playlist_index)s. %(title)s.%(ext)s'"
 alias yt-pv="youtube-dl -o '%(playlist_index)s. %(title)s.%(ext)s'"
-alias Tlj=" cd ~/Music/Sea\ Songs/The\ Longest\ Johns/ && cvlc *"
+alias Tlj=" cd ~/Music/Sea\ Songs/The\ Longest\ Johns/ && vlc *"
+alias brc="vim ~/.bashrc"
+alias vhosts="sudo vim /etc/hosts"
+alias brsource="source ~/.bashrc"
 
 
 
