@@ -17,7 +17,8 @@ alias Tlj=" cd ~/Music/Sea\ Songs/The\ Longest\ Johns/ && vlc *"
 alias brc="vim ~/.bashrc"
 alias vhosts="sudo vim /etc/hosts"
 alias brsource="source ~/.bashrc"
-
+alias install="sudo pacman -S"
+alias remove="sudo pacman -Rns"
 
 
 
