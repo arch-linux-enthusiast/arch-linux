@@ -186,14 +186,18 @@ bar {
 bindsym $mod+Shift+f exec firefox
 bindsym $mod+Shift+v exec code
 
+### End of custom shortcuts ###
+
+
+
 ### i3-gaps config ###
 
 # Disable window titlebars entirely
 for_window [class="^.*"] border pixel 2
 
 # Set inner/outer gaps
-gaps inner 5
-gaps outer 7
+gaps inner 8
+gaps outer 5
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>
@@ -244,5 +248,6 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
+
 
 ###End of i3-gaps config
