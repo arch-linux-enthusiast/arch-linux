@@ -185,6 +185,7 @@ bar {
 ### Custom shortcuts ###
 bindsym $mod+Shift+f exec firefox
 bindsym $mod+Shift+v exec code
+bindsym $mod+Control+l exec i3lock-fancy
 
 ### End of custom shortcuts ###
 
