@@ -41,3 +41,7 @@ man() {
     LESS_TERMCAP_us=$'\e[01;32m' \
     command man "$@"
 }
+
+
+export QT_QPA_PLATFORMTHEME=qt5ct
+
