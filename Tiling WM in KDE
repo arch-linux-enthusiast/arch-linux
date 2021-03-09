@@ -1,0 +1,16 @@
+There is this awesome script which emulates a tiling WM in KDE. It's called Krohnkite.
+Go to plasma system settings > Kwin Scripts and click on install script.
+Search for tiling and select Krohnkite. It emulates a tiling WM like i3/dwm
+
+You can customize shortcuts by changing them in the shortcuts section of plasma settings.
+These are present under Kwin shortcuts.
+
+You can even enable gaps and change a bunch of settings, but you have to first run these commands in the terminal:
+  mkdir -p ~/.local/share/kservices5/ 
+  ln -s ~/.local/share/kwin/scripts/krohnkite/metadata.desktop ~/.local/share/kservices5/krohnkite.desktop 
+
+Credit to (https://www.reddit.com/r/kde/comments/itwc31/krohnkite_gaps/) for the GUI menu options
+
+Changes made are reflected only after a logout & re-login.
+
+This script is also crazy efficient and doesn't affects RAM performance. My startup RAM usage is only ~490 MB.
