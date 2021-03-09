@@ -8,6 +8,6 @@ This repository serves more as a basic guide for me and is not intended for anyo
 
 I shall not be held responsible for broken computers, corrupted installs, depression, ending of your personal relationships or thermonuclear wars.<br/>
 If you do blame me I will sit with a large bucket of popcorn and enjoy watching your life crumble in front of me while doing nothing about it.
+
 (LOL I love the last two lines, it is inspired from XDA Developers' forums)<br/>
 
-Also in case you are wondering, I like Beethoven more than Mozart. Moonlight Sonata is probably the piece I have enjoyed the most.
